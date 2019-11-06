@@ -29,6 +29,15 @@
     <script src="//cdn.bootcss.com/html5shiv/r29/html5.min.js"></script>
     <script src="//cdn.bootcss.com/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
+    <script>
+      var _hmt = _hmt || [];
+      (function() {
+         var hm = document.createElement("script");
+         hm.src = "https://hm.baidu.com/hm.js?1b5546ceaf50cc8f1c52a16cb27349c4";
+         var s = document.getElementsByTagName("script")[0]; 
+         s.parentNode.insertBefore(hm, s);
+      })();
+    </script>
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-L0VCTK1VYS"></script>
     <script>
